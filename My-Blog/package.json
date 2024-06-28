@@ -1,0 +1,20 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "This is MERN stack project",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon"
+  },
+  "keywords": [],
+  "author": "Sujeet Ghodke",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.1.4"
+  }
+}
